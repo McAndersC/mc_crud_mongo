@@ -1,3 +1,5 @@
 node_modules
 public/users/*
 !public/users/no-user.jpg
+
+.env.local
